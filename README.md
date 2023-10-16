@@ -9,4 +9,4 @@ Depth-first search is an algorithm for traversing or searching tree or graph dat
 Data Structure Used: (Stack)
 
 ## Greedy Algorithms
-A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.
+A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage. Edger Dijkstra, a computer scientist and mathematician who wanted to calculate a minimum spanning tree, introduced the term "Greedy algorithm". Prim and Kruskal came up with optimization techniques for minimizing cost of graphs. 
