@@ -41,7 +41,7 @@ void enqueue(struct Queue* queue, int data) {
 }
 
 int dequeue(struct Queue *queue) {
-    if (queue->front == NULL{
+    if (queue->front == NULL) {
         return -1; /*queue is empty*/
     }
     int data = queue->front->data;
