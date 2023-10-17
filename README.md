@@ -10,3 +10,6 @@ Data Structure Used: (Stack)
 
 ## Greedy Algorithms
 A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage. Edger Dijkstra, a computer scientist and mathematician who wanted to calculate a minimum spanning tree, introduced the term "Greedy algorithm". Prim and Kruskal came up with optimization techniques for minimizing cost of graphs. 
+
+## Minimum Spannning Tree
+A minimum spanning tree (MST) is a subset of the edges of a connected, edge-weighted graph that connects all the vertices together without any cycles and with the minimum possible total edge weight. It is a way of finding the most economical way to connect a set of vertices.
