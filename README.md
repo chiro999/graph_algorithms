@@ -14,5 +14,5 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 ## Minimum Spannning Tree
 A minimum spanning tree (MST) is a subset of the edges of a connected, edge-weighted graph that connects all the vertices together without any cycles and with the minimum possible total edge weight. It is a way of finding the most economical way to connect a set of vertices.
 
-# Dijkstra's Algorithm
+## Dijkstra's Algorithm
 Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph. This algorithm uses the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes.
