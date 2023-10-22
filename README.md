@@ -16,3 +16,10 @@ A minimum spanning tree (MST) is a subset of the edges of a connected, edge-weig
 
 ## Dijkstra's Algorithm
 Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph. This algorithm uses the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes.
+
+## Bellman-Ford Algorithm
+The Bellman-Ford algorithm is a single-source shortest-path algorithm that works by iteratively relaxing edges in the graph until the shortest path to all vertices is found. It is especially useful for graphs with negative edge weights, as it can detect negative cycles and return a suitable error message.
+
+## Floyd-Warshall Algorithm
+The Floyd-Warshall algorithm is a multi-source shortest path algorithm that works by computing the shortest path between all pairs of vertices in the graph using dynamic programming. 
+
