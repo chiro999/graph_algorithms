@@ -23,3 +23,7 @@ The Bellman-Ford algorithm is a single-source shortest-path algorithm that works
 ## Floyd-Warshall Algorithm
 The Floyd-Warshall algorithm is a multi-source shortest path algorithm that works by computing the shortest path between all pairs of vertices in the graph using dynamic programming. 
 
+## Binary Search Tree
+A Binary Search Tree (BST) is a special type of binary tree in which the left child of a node has a value less than the node’s value and the right child has a value greater than the node’s value. This property is called the BST property and it makes it possible to efficiently search, insert, and delete elements in the tree.
+The root of a BST is the node that has the largest value in the left subtree and the smallest value in the right subtree. Each left subtree is a BST with nodes that have smaller values than the root and each right subtree is a BST with nodes that have larger values than the root.
+
