@@ -27,3 +27,11 @@ The Floyd-Warshall algorithm is a multi-source shortest path algorithm that work
 A Binary Search Tree (BST) is a special type of binary tree in which the left child of a node has a value less than the node’s value and the right child has a value greater than the node’s value. This property is called the BST property and it makes it possible to efficiently search, insert, and delete elements in the tree.
 The root of a BST is the node that has the largest value in the left subtree and the smallest value in the right subtree. Each left subtree is a BST with nodes that have smaller values than the root and each right subtree is a BST with nodes that have larger values than the root.
 
+## Inorder Traversal
+For Inorder, you traverse from the left subtree to the root then to the right subtree.
+
+## Preorder Traversal
+For Preorder, you traverse from the root to the left subtree then to the right subtree.
+
+## Postorder Traversal
+For Post order, you traverse from the left subtree to the right subtree then to the root.
